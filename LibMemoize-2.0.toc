@@ -1,0 +1,9 @@
+## Interface: 80200
+## Title: Lib: Memoize
+## Notes: Memoize the results of a function
+## Author: keattz
+## X-Category: Library
+## X-License: MIT
+## Version: @project-version@
+
+LibMemoize-2.0.xml
